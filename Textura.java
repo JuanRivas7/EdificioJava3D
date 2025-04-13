@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Edificio;
+package Principal;
 
 import com.sun.j3d.utils.image.TextureLoader;
 import java.awt.Container;

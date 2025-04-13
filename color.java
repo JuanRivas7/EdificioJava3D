@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Edificio;
+package Principal;
 
 import javax.media.j3d.Appearance;
 import javax.media.j3d.ColoringAttributes;
